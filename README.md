@@ -41,7 +41,7 @@
 6. **Tech-Savvy** - Hiểu biết về công nghệ
 7. **Social Media Influencer** - Người ảnh hưởng trên mạng xã hội
 8. **Sustainable Investor** - Nhà đầu tư bền vững
-9. **Digital Nomad** - Dân du lịch số
+9. **Digital Nomad** - Du mục kỹ thuật số
 10. **Travel Enthusiast** - Người đam mê du lịch
 11. **Fitness Enthusiast** - Người đam mê thể dục
 12. **Investor** - Nhà đầu tư
