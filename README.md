@@ -32,3 +32,16 @@
 30. **Time Management Skill:** Một đánh giá về kỹ năng quản lý thời gian của mỗi người.
 31. **Lifestyle Choice:** Một phân loại về lối sống chủ yếu của mỗi người, như Thân thiện với môi trường, Người tìm kiếm phiêu lưu, Am hiểu công nghệ...
 
+# Trong đó Lifestyle Choice:
+1. **Eco-Friendly** - Thân thiện với môi trường
+2. **Adventure Seeker** - Người tìm kiếm phiêu lưu
+3. **Urban Professional** - Chuyên gia thành thị
+4. **Budget-Conscious** - Nhận thức về ngân sách
+5. **Health-Conscious** - Quan tâm đến sức khỏe
+6. **Tech-Savvy** - Hiểu biết về công nghệ
+7. **Social Media Influencer** - Người ảnh hưởng trên mạng xã hội
+8. **Sustainable Investor** - Nhà đầu tư bền vững
+9. **Digital Nomad** - Dân du lịch số
+10. **Travel Enthusiast** - Người đam mê du lịch
+11. **Fitness Enthusiast** - Người đam mê thể dục
+12. **Investor** - Nhà đầu tư
