@@ -1,5 +1,8 @@
-Dữ liệu được lấy từ
+Dữ liệu được lấy từ (100 000 dòng, 31 cột)
 [kaggle](https://www.kaggle.com/datasets/anthonytherrien/half-a-million-lifestyle)
+
+
+
 # Ghi chú
 
 1. **Gender:** Giới tính.
