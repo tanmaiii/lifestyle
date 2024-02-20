@@ -1,5 +1,5 @@
 Dữ liệu được lấy từ
-[kaggle]https://www.kaggle.com/datasets/anthonytherrien/half-a-million-lifestyle
+[kaggle](https://www.kaggle.com/datasets/anthonytherrien/half-a-million-lifestyle)
 # Ghi chú
 
 1. **Gender:** Giới tính.
