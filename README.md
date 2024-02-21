@@ -37,7 +37,7 @@ Dữ liệu được lấy từ (100 000 dòng, 31 cột)
 30. **Time Management Skill:** Một đánh giá về kỹ năng quản lý thời gian của mỗi người.
 31. **Lifestyle Choice:** Một phân loại về lối sống chủ yếu của mỗi người, như Thân thiện với môi trường, Người tìm kiếm phiêu lưu, Am hiểu công nghệ...
 
-# Trong đó Lifestyle Choice:
+### Trong Lifestyle Choice có các thuộc tính sau:
 1. **Eco-Friendly** - Thân thiện với môi trường
 2. **Adventure Seeker** - Người tìm kiếm phiêu lưu
 3. **Urban Professional** - Chuyên gia thành thị
